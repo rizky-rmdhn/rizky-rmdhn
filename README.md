@@ -64,14 +64,19 @@ Portfolio pribadi — dark themed, bilingual (ID/EN), menampilkan project dan CV
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Aktivitas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizky-rmdhn&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10" />
+  <img src="https://img.shields.io/badge/🍃%20Python-Code-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠%20TensorFlow-Model-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🖼️%20Computer%20Vision-Vision-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊%20Data%20Science-Explorer-purple?style=for-the-badge" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-rmdhn&layout=compact&theme=dark&bg_color=0A0A0A&border_color=222222&title_color=00C853&text_color=F0F0F0" />
+  <a href="https://github.com/rizky-rmdhn"><img src="https://img.shields.io/github/followers/rizky-rmdhn?label=Followers&logo=github&style=flat-square&color=00C853" /></a>
+  <a href="https://github.com/rizky-rmdhn/rizky-rmdhn"><img src="https://img.shields.io/github/stars/rizky-rmdhn?label=Stars&logo=github&style=flat-square&color=2979FF" /></a>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frizky-rmdhn&style=flat-square&color=FF3D00" />
 </div>
 
 ---
