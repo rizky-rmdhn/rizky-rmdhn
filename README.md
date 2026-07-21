@@ -21,9 +21,11 @@ Saya senang membangun model AI dari nol — mulai dari preprocessing dataset, tr
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,fastapi,streamlit,flask,html,css,js,tailwind,git,github,linux,md" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,fastapi,flask" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,linux,md" />
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
