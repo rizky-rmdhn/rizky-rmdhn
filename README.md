@@ -67,10 +67,10 @@ Portfolio pribadi — dark themed, bilingual (ID/EN), menampilkan project dan CV
 ## 📊 Aktivitas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🍃%20Python-Code-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠%20TensorFlow-Model-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🖼️%20Computer%20Vision-Vision-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📊%20Data%20Science-Explorer-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Code-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/TensorFlow-Model-orange?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Computer_Vision-Vision-green?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/Data_Science-Explorer-purple?style=for-the-badge&logo=jupyter" />
 </div>
 
 <div align="center">
