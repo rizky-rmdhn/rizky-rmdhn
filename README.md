@@ -67,8 +67,11 @@ Portfolio pribadi — dark themed, bilingual (ID/EN), menampilkan project dan CV
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizky-rmdhn&show_icons=true&theme=dark&bg_color=0A0A0A&border_color=222222&icon_color=00C853&title_color=00C853&text_color=F0F0F0" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-rmdhn&layout=compact&theme=dark&bg_color=0A0A0A&border_color=222222&title_color=00C853&text_color=F0F0F0" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rizky-rmdhn&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-rmdhn&layout=compact&theme=dark&bg_color=0A0A0A&border_color=222222&title_color=00C853&text_color=F0F0F0" />
 </div>
 
 ---
